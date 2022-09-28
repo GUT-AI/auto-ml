@@ -61,7 +61,7 @@ Component dependencies
 
 This component depends on the following components of GUT-AI:
 
-* (none)
+* `NAS <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c3-4-nas>`_
 
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
