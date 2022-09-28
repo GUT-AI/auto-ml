@@ -2,8 +2,8 @@
 
   <br/>
 
-Automated Machine Learning (AutoML)
-===================================
+AutoML
+======
 
 .. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
   :target: LICENSE
