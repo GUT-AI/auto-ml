@@ -13,4 +13,4 @@ References
 
 |
 
-See `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_
+See `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_.
