@@ -29,4 +29,4 @@ Surveys
 NAS
 ---
 
-See See also `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
+See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
