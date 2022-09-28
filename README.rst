@@ -61,6 +61,7 @@ Component dependencies
 
 This component depends on the following components of GUT-AI:
 
+* `Automated Data Preprocessing <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c3-3-automated-data-preprocessing>`_
 * `NAS <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c3-4-nas>`_
 
 Environment simulators
