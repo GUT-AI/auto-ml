@@ -13,4 +13,14 @@ References
 
 |
 
-See `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_.
+See also `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_.
+
+Surveys
+-------
+
+- 
+
+NAS
+---
+
+See See also `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_
