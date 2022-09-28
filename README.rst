@@ -92,7 +92,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
     @article{kourouklides2022auto_ml,
       author = {Ioannis Kourouklides},
       journal = {OSF Preprints},
-      title = {QA},
+      title = {AutoML},
       year = {2022},
       doi = {10.17605/osf.io/8frxm},
       license = {Creative Commons Zero CC0 1.0}
