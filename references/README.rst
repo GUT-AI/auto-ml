@@ -12,3 +12,5 @@ References
 .. contents:: **Table of Contents**
 
 |
+
+See `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_
