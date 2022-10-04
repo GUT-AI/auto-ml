@@ -29,6 +29,7 @@ AutoML (general)
 **2021**
 
 - `AutoML: A Survey of the State-of-the-Art <https://arxiv.org/pdf/1908.00709.pdf>`_
+- `Automated Machine Learning Techniques for Data Streams <https://arxiv.org/pdf/2106.07317.pdf>`_
 
 NAS
 ---
