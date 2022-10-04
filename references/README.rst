@@ -15,8 +15,8 @@ References
 
 See also `Awesome-AutoML-Papers <https://github.com/hibayesian/awesome-automl-papers>`_.
 
-Surveys
--------
+AutoML (general)
+----------------
 
 **2019**
 
